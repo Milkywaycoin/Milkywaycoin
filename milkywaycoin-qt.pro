@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = litecoin-qt
-macx:TARGET = "Litecoin-Qt"
+TARGET = milkywaycoin-qt
+macx:TARGET = "Milkywaycoin-Qt"
 VERSION = 0.8.6.1
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
